@@ -4,6 +4,20 @@
 
 This theme fixes, among other, the screen margin when using the [@Pugwash] [mod].
 
+## Installation
+
+```
+cd ~/KlipperScreen/styles/
+git clone https://github.com/zoilomora/e5s1-klipperscreen-theme.git e5s1
+sudo service KlipperScreen restart
+```
+
+**Remember to change the theme on the screen itself**
+
+## Result
+
+![Front](./docs/front.jpg)
+
 https://www.printables.com/es/model/554025-ender-5-s1-waveshare-screen-mount-raspberry-pi-3b
 
 [KlipperScreen]: https://github.com/KlipperScreen/KlipperScreen/
